@@ -1,1 +1,2 @@
 # SolidColorsTerminal
+echo # ICONS
