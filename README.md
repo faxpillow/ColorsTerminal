@@ -1,3 +1,3 @@
 
 # SolidColorsTerminal
-FOR MAC USERS: download, put on desktop, double click for random terminal setups
+FOR MAC USERS: download, put on desktop, double click for randomized terminal color setups/combinations
